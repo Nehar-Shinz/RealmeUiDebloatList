@@ -1,4 +1,4 @@
-#List of System Bloatware Packages to Uninstall from Realme UI Using ADB
+# List of System Bloatware Packages to Uninstall from Realme UI Using ADB
 
 > **Disclaimer:** Removing system apps can impact your device's performance or functionality. Proceed with caution and only uninstall apps you are certain are unnecessary. **This guide is for educational purposes only!**
 
